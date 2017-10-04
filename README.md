@@ -1,2 +1,4 @@
-# moonfest
-Listed today as a moonfest file
+# README
+My first encounter of full moon.
+Let the adventure begins.
+There's no going back.
